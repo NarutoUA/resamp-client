@@ -26,5 +26,5 @@ If issue has not been reported, please create a new issue with following informa
 * a screenshot/video link (optional)
 
 ## Notes
-ReSA:MP is not compatible with SAMPFUNCS, SAMP Addon or any other SA:MP-oriented memory-hacking ASI/CLEO/LUA mods.
+ReSA:MP is not compatible with SAMPFUNCS, m0d_sa (s0beit), SAMP Addon or any other SA:MP-oriented memory-hacking ASI/CLEO/LUA mods.
 
