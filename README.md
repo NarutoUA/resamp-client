@@ -26,12 +26,12 @@ If issue has not been reported, please create a new issue with following informa
 * a screenshot/video link (optional)
 
 ## Links
-* https://resa.mp - Official site [WIP]
+* [resa.mp](http://resa.mp) - Official site [WIP]
 * [Discord](https://discordapp.com/invite/bvZaYsF)
 * Telegram - [Chat](https://t.me/resampchat) / [Updates](https://t.me/resamp)
 * [YouTube](https://www.youtube.com/playlist?list=PLGVEkKLWHjVbAamQHoCrebIZVMmkB6wot)
 * [VK](https://vk.com/re.samp)
 
 ## Notes
-ReSA:MP is not compatible with SAMPFUNCS, m0d_sa (s0beit), SAMP Addon or any other SA:MP-oriented memory-hacking ASI/CLEO/LUA mods.
+ReSA:MP is not compatible with SAMPFUNCS, m0d_sa (s0beit), SAMP Addon or any other SA:MP-oriented memory-hacking ASI/CLEO/LUA mod.
 
