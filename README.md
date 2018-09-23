@@ -13,7 +13,7 @@ ReSA:MP - reverse-engineered SA:MP (Grand Theft Auto: San Andreas Multiplayer) [
 1. Make sure original **SA:MP 0.3.7** is installed.
 2. Download the latest release from [here](https://github.com/NarutoUA/resamp-client/releases/latest).
 3. Unpack **resamp-client_buildXXX.zip** archive.
-4. Copy **samp.dll** to the GTA:SA game folder with replacement.
+4. Copy **samp.dll** to the GTA:SA game folder with replacement (make backup of original one).
 
 ## Reporting Issues
 If you encountered a bug using ReSA:MP, first search [issue list](https://github.com/NarutoUA/resamp-client/issues/) if it has already been reported (make sure closed issues are included in search results).
